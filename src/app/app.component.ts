@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'clientes-app';
+  curso: string = 'Spring Api Rest 2';
+  profesor: string = 'Jorge Carlos García Medina';
 }
